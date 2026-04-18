@@ -1,0 +1,56 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "DEV ABOODI",
+  "theme": "WALTER-X",
+  "LANGUAGE": "Arabic",
+  "LANGCODE": "ar",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*كل شيء تحت السيطرة.\nالنظام محدث بالفعل.*",
+          "NEW_UPDATE": "*هناك تحديث جديد متاح.*\n\n*التغييرات:*\n",
+          "UPDATED_LOCAL": "*تم التحديث بنجاح.*"
+      }, 
+      "global": {
+          "botName": "WALTER-X",
+          "body": "بوت واتساب",
+          "greet2" : "أهلاً",
+          "pic1": "https://telegra.ph/file/089817259a78d6d2c89b6.jpg",
+          "pic2": "https://telegra.ph/file/0f274105a63527f0994c4.jpg",
+          "pic3": "https://telegra.ph/file/7943f739b10fa0e406ff7.jpg",
+          "pic4": "https://telegra.ph/file/61f894d9d06a5a26bf563.jpg",
+          "pic5": "https://telegra.ph/file/e6bbcbd4acce835ed4fe2.jpg",
+          "pic6": "https://telegra.ph/file/b40750208383570ad0a11.jpg",
+          "pic7": "https://telegra.ph/file/0d4f7ee7df81a27629758.jpg",
+          "greet" : "أنت",
+          "dotbody" : "أنا هنا.",
+          "promote": "تمت الترقية.",
+          "pmallow": "*هذا هو WALTER-X*\nالمالك غير متاح حالياً.\nاترك رسالتك.\n\nسيتم إيصالها في الوقت المناسب.",
+          "pmblock": "❌ تم الحظر\n\nتم حظرك بسبب الإزعاج.\n\n*WALTER-X*",
+          "pmwarn": "⚠️ انتبه\nتوقف عن الإزعاج.\n_عدد التحذيرات: ${checkPermit.times}_\n\n*WALTER-X*",
+          "permited": "تم السماح لك الآن ${tname}",
+          "revoked" : "تم سحب الإذن منك ${tname}",
+          "demote": "تمت إزالة الصلاحية.",
+          "antlink": "تم اكتشاف رابط.\nتم التنفيذ.",
+          "session": "\n*هذا ملف الجلسة الخاص بك.*\nاحتفظ به جيداً.\n\n*WALTER-X*",
+          "mention": "قم بعمل منشن لشخص",
+          "title": "WALTER-X",
+          "footer": "WALTER-X",
+          "by": "DEV ABOODI",
+          "chat_desc": "الخيارات: 1. كتم\n2. فك الكتم\n3. أرشفة\n4. إلغاء الأرشفة\n5. قراءة\n6. غير مقروء\n7. حذف",
+          "success": "تم ✓",
+          "dot": "استخدم -help\nولا تضيع وقتك.",
+          "couple_male": "تم التنفيذ.",
+          "couple_female": "اكتمل.",
+          "admin": "هذا الأمر خاص بمشرفي المجموعة فقط.",
+          "botAdmin": "أعطني صلاحيات مشرف.",
+          "owner": "هذا الأمر للمالك فقط.",
+          "group": "هذه الميزة تعمل في المجموعات فقط.",
+          "private": "هذه الميزة تعمل في الخاص فقط.",
+          "bot": "هذه الميزة خاصة بالنظام.",
+          "wait": "جارِ التنفيذ..."
+      },
+      "error": {
+          "text": "*حدث خطأ.*\nقم بإصلاحه."
+      }
+  }
+}

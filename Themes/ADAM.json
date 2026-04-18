@@ -1,0 +1,63 @@
+{
+"_JSON_": true,
+"AUTHOR": "DEV ABOODI",
+"LANGUAGE": "English",
+"LANGCODE": "en",
+"STRINGS": {
+"updater": {
+"UPDATE": "Your bot is already on latest version Buddy",
+"NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
+"UPDATED_LOCAL": "Fresh Updates Installed!"
+},
+"global": {
+"botName": " Powered by WALTER-X",
+ 
+"body": "WALTER-X SYSTEM ACTIVE",
+"greet2" : "Hey Buddy",
+"pic1": "https://wallpapercave.com/wp/wp9459573.jpg",
+"pic2": "https://wallpapercave.com/wp/wp2858079.jpg",
+"pic3": "https://wallpapercave.com/dwp1x/wp8216191.jpg",
+"pic4": "https://wallpapercave.com/dwp1x/wp9622836.jpg",
+"pic5": "https://wallpaperaccess.com/full/1079504.jpg",
+"pic6": "https://greatloveart.com/wp-content/uploads/2022/05/Black-Adam-PC-Wallpaper.jpg",
+"pic7": "https://comicyears.com/wp-content/uploads/2022/05/GalleryChar_1900x900_blackadam_52ab963299f1c0.78977706.jpg",
+"gif1": "https://tenor.com/bMLiP.gif",
+"gif2": "https://tenor.com/bf0W3.gif",
+"gif3": "https://tenor.com/SH2r.gif",
+"gif4": "https://tenor.com/bhOLh.gif",
+"gif5": "https://tenor.com/bSOTj.gif",
+"gif6": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+"gif7": "https://media.giphy.com/media/7vP6xnkkOrlGW4TmRR/giphy.gif",
+"greet" : "Pal",
+"dotbody" : "WALTER-X is now active..",
+"promote": "A new member has been promoted",
+"pmallow": "Hi, this is WALTER-X bot\nMy owner is currently busy.\nPlease leave your message.\n\n_I will notify him soon._",
+"pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _Powered by WALTER-X*_",
+"pmwarn": "✋Hi\nPlease don't spam or you will be blocked.\nWarnings: ${checkPermit.times}\n\n *Powered by WALTER-X*",
+"permited": "Hi ${tname}\n\nYou are now allowed to message the bot.\n\nPowered by WALTER-X",
+"revoked" : "Hi ${tname}\n\nYour permission has been revoked.\n\nPowered by WALTER-X",
+"demote": "Member demoted successfully",
+"antlink": "Link Detected.\nUser Removed.",
+"session": "\n*This is your session file, keep it safe*\n\nUpload it to your repo to keep the bot online.\n\n*Powered by WALTER-X*",
+"mention": " Please mention any user",
+"title": "WALTER-X",
+"footer": "WALTER-X",
+"by": "Made by: DEV ABOODI",
+"chat_desc": "Options Available : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
+"success": "Success ✓",
+"dot": "Hello, I'm WALTER-X.\nUse .help to see commands.",
+"couple_male": "System response executed",
+"couple_female": "Task completed successfully",
+"admin": "This command is only for Admin⚠️!",
+"botAdmin": "Please give me Admin rights❗",
+"owner": "This command is only for Owner ⚠️",
+"group": "This feature is only for Group ❗",
+"private": "This feature is only for Private chats⚠️",
+"bot": "This feature is only for Bot Number⚠️",
+"wait": "*Processing...* ✅"
+},
+"error": {
+"text": "Task Terminated"
+}
+}
+}
